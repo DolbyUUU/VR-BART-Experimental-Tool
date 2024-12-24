@@ -1,4 +1,4 @@
-# VR-BART Experimental Tool
+# Virtual Reality-based Balloon Analogue Risk Task (VR-BART)
 
 ## Overview
 
