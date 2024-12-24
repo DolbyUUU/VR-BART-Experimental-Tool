@@ -35,3 +35,20 @@ This tool is designed for:
      - Total earnings/losses.
      - Behavioral metrics indicating risk-taking tendencies.
 
+
+---
+
+### Figure 1: Traditional computerized BART experiment.
+<img src="figures/fig_bart.png" alt="Figure 1: Traditional computerized BART experiment" width="50%">
+
+### Figure 2: VR-BART overview in UE5 “Play In Editor” mode.
+<img src="figures/fig_pie_mode.png" alt="Figure 2: VR-BART overview in UE5 'Play In Editor' mode" width="50%">
+
+### Figure 3: VR-BART overview in UE5 “Editor” mode.
+<img src="figures/fig_editor_mode.png" alt="Figure 3: VR-BART overview in UE5 'Editor' mode" width="50%">
+
+### Figure 4: VR-BART UE5 level Blueprint overview.
+<img src="figures/fig_blueprint.png" alt="Figure 4: VR-BART UE5 level Blueprint overview" width="90%">
+
+### Figure 5: Outcome text printed on screen in trials.
+<img src="figures/fig_text.png" alt="Figure 5: Outcome text printed on screen in trials" width="40%">
