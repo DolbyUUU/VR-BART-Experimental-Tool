@@ -38,8 +38,10 @@ This tool is designed for:
 
 ---
 
+## Figures
+
 ### Figure 1: Traditional computerized BART experiment.
-<img src="figures/fig_bart.png" alt="Figure 1: Traditional computerized BART experiment" width="60%">
+<img src="figures/fig_bart.jpg" alt="Figure 1: Traditional computerized BART experiment" width="60%">
 
 ### Figure 2: VR-BART overview in UE5 “Play In Editor” mode.
 <img src="figures/fig_pie_mode.png" alt="Figure 2: VR-BART overview in UE5 'Play In Editor' mode" width="60%">
